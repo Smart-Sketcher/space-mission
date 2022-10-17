@@ -1,4 +1,4 @@
-# space-mission Analysis
+# Space-Mission Analysis
 # Datase Introduction
 - the dataset contain datas of space mission conducted between the year of 1957 to August 2022 which also included the following information about the space misson; the location, date, and result of the launch, the company responsible, and the name, price, and status of the rocket used for the mission. All this dataset led to the status of the mission.
 # Objective of the Analysis
